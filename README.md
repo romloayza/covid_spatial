@@ -22,4 +22,4 @@
 | flag      | Indicador que especifica si la información resultante de la unión de datos (espacial y de fallecidos) pertenece a ambas fuentes o únicamente a una de ellas.                              |
 
 
-## 🔗 Enlace: 
+## 🔗 Enlace: https://romloayza.github.io/covid_spatial/
