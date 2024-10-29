@@ -14,11 +14,11 @@
 | PROVINCIA  | Subdivisión dentro de cada departamento. Esta variable permite un análisis más detallado de los fallecimientos por Covid-19, proporciona una visión más granular de la distribución geográfica de los datos a nivel local                           |
 | geometry     | Información espacial en formato de polígonos de cada provincia.                               |
 | location      | Especificación de Departamento y Provincia                               |
-| y2020      | Número de fallecidos en el año 2020                               |
-| y2021      | Número de fallecidos en el año 2021                              |
-| y2022      | Número de fallecidos en el año 2022                              |
-| y2023      | Número de fallecidos en el año 2023       |
-| y2024      | Número de fallecidos en el año 2024                               |
+| y2020      | Número de contagiados en el año 2020                               |
+| y2021      | Número de contagiados en el año 2021                              |
+| y2022      | Número de contagiados en el año 2022                              |
+| y2023      | Número de contagiados en el año 2023       |
+| y2024      | Número de contagiados en el año 2024                               |
 | flag      | Indicador que especifica si la información resultante de la unión de datos (espacial y de fallecidos) pertenece a ambas fuentes o únicamente a una de ellas.                              |
 
 
